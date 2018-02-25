@@ -95,8 +95,8 @@ even if this is not the case,
 your university endorses your work.
 The same applies if you are a professor or in any way affiliated with any kind of institution, organization etc.
 If this is the case, then you have two options (in both cases, the license may **not** be altered):
- * Either you must declare that the derivative is produced without any kind of support (basically, in your free time).
- * Or you must upload your derivative here, in this repository, as a contribution.
+	* Either you must declare that the derivative is produced without any kind of support (basically, in your free time).
+ 	* Or you must upload your derivative here, in this repository, as a contribution.
 * If you create any derivatives and want to distribute them without contributing to this project, then you must provide public access to them. Derivatives used solely and strictly for personal study are exempt from this condition.
 
 
