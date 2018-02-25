@@ -77,7 +77,7 @@ However, such extensions are not in my immediate plans.
 See below if you want to contribute.
 Any kind of suggestions and contributions with respect to the "typographic" and aesthetic features of the mind map are also (more than) welcome.
 
-# Licesne, distribution and creating derivatives
+# License, distribution and creating derivatives
 
 See [LICENSE](LICENSE.md). 
 It is a modified version of CC BY-NC-ND 4.0,
