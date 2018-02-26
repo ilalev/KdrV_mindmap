@@ -12,7 +12,7 @@ Under the folder *doc*,
 a pdf version of the mind map may be found.
 This is a static document,
 where each page contains the map with a single node expanded.
-Tha last page contains the whole map, fully expanded.
+The last page contains the whole map, fully expanded.
 
 Contributions to this project are welcome. 
 However, note that this mind map is the result of **autonomous** and completely **independent** work and I intend to keep it this way. 
