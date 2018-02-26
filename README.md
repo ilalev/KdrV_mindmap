@@ -2,7 +2,7 @@
 
 *"Kant's Critique of Pure Reason: A mind map"* is an attempt to present a summary of Kant's first Critique in the form of a mind map. 
 It is not supposed to be a substitute for reading Kant's book! 
-It is rather intended to act as a mnemonic device and reference system for navigating Kant's architectonic system and pre-supposes a familiarity with it.
+It is rather intended to act as a mnemonic device and reference framework for navigating Kant's architectonic system and pre-supposes a familiarity with it.
 The mind map is mostly in English, with the addition of some essential terminology in German.
 It is provided as two files.
 Under the folder *mind_map*, 
@@ -97,7 +97,7 @@ The same applies if you are a professor or in any way affiliated with any kind o
 If this is the case, then you have two options (in both cases, the license may **not** be altered):
 	* Either you must declare that the derivative is produced without any kind of support (basically, in your free time).
  	* Or you must upload your derivative here, in this repository, as a contribution.
-* If you create any derivatives and want to distribute them without contributing to this project, then you must provide public access to them. Derivatives used solely and strictly for personal study are exempt from this condition.
+* If you create any derivatives and want to distribute them without contributing to this project, then you must provide public access to them. Derivatives used solely and strictly for personal study are exempt from this requirement.
 
 
 
