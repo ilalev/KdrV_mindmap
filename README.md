@@ -103,7 +103,7 @@ If this is the case, then you have two options (in both cases, the license may *
 
 # Some technical details
 
-The mind map was initially created using the [DocEar](http://www.docear.org/) software.
+The mind map was initially created using the [Docear](http://www.docear.org/) software.
 In order to navigate the map and/or make any changes,
 you may use a mind mapping software package,
 like [Freeplane](https://www.freeplane.org/wiki/index.php/Main_Page).
