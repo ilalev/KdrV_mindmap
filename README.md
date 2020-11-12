@@ -19,7 +19,7 @@ However, note that this mind map is the result of **autonomous** and completely 
 See below for details on contributing and producing derivatives.
 
 If you are not familiar with the jargon of coders and are only interested in downloading the mind map,
-then just click on the green "Clone or download" button and select "Download ZIP".
+then just click on the green "Code" button and select "Download ZIP".
 
 # Sources used
 
